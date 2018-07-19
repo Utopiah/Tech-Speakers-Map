@@ -415,6 +415,14 @@
       "country": "Philippines",
       "lat": 14.5547,
       "lng": 121.0244
+      },
+      {
+      "name": "Fabien Benetou", 
+      "url": "https://mozillians.org/en-US/u/utopiah/",
+      "gravatar": "fabien-services@benetou.fr",
+      "country": "Belgium",
+      "lat": 50.850346,
+      "lng": 4.351721
       }
    ]
 }
